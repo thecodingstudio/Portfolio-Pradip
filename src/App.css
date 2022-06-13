@@ -1,8 +1,24 @@
 .App {
-  text-align: center;
+  overflow: hidden;
+  background-color: #212529;  
 }
 
-.App-logo {
+.button {
+  background-color: #0fb;
+   border-radius: 34px;
+   border: none;
+   color: black;
+   font-size: 16px;
+   padding: 11px 26px 11px 26px;
+ }
+ 
+ .button:hover {
+   background: white;
+   cursor: pointer;
+   color: #0fb;
+ }
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +51,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+}  */
