@@ -107,7 +107,7 @@ const Portfolio = () => {
                         </div>
                         <div className="project-part">
                             <div className="project-title">
-                                Pharmacy App (Using Go Languaguge)
+                                Pharmacy App (Using Go Language)
                             </div>
                             <div className="descrption">
                                 It is an E-Commerce Medical Application where customers can <br />
