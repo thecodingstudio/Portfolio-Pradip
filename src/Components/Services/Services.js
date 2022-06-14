@@ -50,10 +50,10 @@ const Services = () => {
                             <img src="https://www.kemiadeleke.com/media/brackets.svg" className="image-explore" alt="icon" />
                         </div>
                         <div className="menu-title">
-                           Rest API
+                        Develop and Design Rest APIs
                         </div>
                         <div className="menu-desc">
-                            I use various web technologies to develop attractive websites which converts visitors to customers. I develop creative and responsive website layouts.
+                        I use various technologies to develop backend like NodeJS and GoLang for website, mobile application and desktop software.
                         </div>
                         <div className='bottem-linee'>
                         </div>
@@ -66,7 +66,7 @@ const Services = () => {
                             Database
                         </div>
                         <div className="menu-desc">
-                            A responsive design makes your website accessible to all users, regardless of their device.
+                        I’m familiar with SQL and NoSQL database, I used MySQL, MongoDB and DynamoDB as database to develop backend.
                         </div>
                         <div className='bottem-linen'>
                         </div>

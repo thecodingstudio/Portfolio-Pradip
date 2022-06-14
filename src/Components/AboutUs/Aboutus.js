@@ -42,7 +42,7 @@ const AboutUs = () => {
                     </div>
                     <div className='text-right'>
                         <p className='text-title'>
-                        I’m Pradip Vadchhak, a Professional Bach-end Developer.
+                        I’m Pradip Vadchhak, a Professional Back-end Developer.
                         </p>
                         <p className='text-title'>
                         I am passionate about leveraging my diverse backgrounds to decipher challenging problems and create delightful experiences. I honed my skills at web development, technical writing, product design.
