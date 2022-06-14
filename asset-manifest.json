@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/pradip-portfolio/static/css/main.cf1660c5.css",
+    "main.css": "/pradip-portfolio/static/css/main.2e16fece.css",
     "main.js": "/pradip-portfolio/static/js/main.a4f8820b.js",
     "static/js/787.b9817c22.chunk.js": "/pradip-portfolio/static/js/787.b9817c22.chunk.js",
     "static/media/Pradip.jpg": "/pradip-portfolio/static/media/Pradip.124110bb155acacd3e05.jpg",
@@ -9,12 +9,12 @@
     "static/media/thumbup.png": "/pradip-portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
     "static/media/crown.png": "/pradip-portfolio/static/media/crown.dbe416beae9b49b842ab.png",
     "index.html": "/pradip-portfolio/index.html",
-    "main.cf1660c5.css.map": "/pradip-portfolio/static/css/main.cf1660c5.css.map",
+    "main.2e16fece.css.map": "/pradip-portfolio/static/css/main.2e16fece.css.map",
     "main.a4f8820b.js.map": "/pradip-portfolio/static/js/main.a4f8820b.js.map",
     "787.b9817c22.chunk.js.map": "/pradip-portfolio/static/js/787.b9817c22.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf1660c5.css",
+    "static/css/main.2e16fece.css",
     "static/js/main.a4f8820b.js"
   ]
 }
