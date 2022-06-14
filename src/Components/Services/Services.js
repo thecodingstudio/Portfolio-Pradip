@@ -47,7 +47,7 @@ const Services = () => {
                     </div>
                     <div data-aos="fade-up" data-aos-delay="100" className="one">
                         <div className="menu-iconn">
-                            <img src="https://www.kemiadeleke.com/media/brackets.svg" className="image-explore" alt="icon" />
+                            <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1655189267/f9ebf16d-72c7-4711-841a-e8cc4f01a1b4_adr7xk.jpg" className="image-explore" alt="icon" />
                         </div>
                         <div className="menu-title">
                         Develop and Design Rest APIs
@@ -60,7 +60,7 @@ const Services = () => {
                     </div>
                     <div data-aos="fade-up" data-aos-delay="200" className="one">
                         <div className="menu-icono">
-                            <img src="https://www.kemiadeleke.com/media/digital-marketing.svg" className="image-explore" alt="icon" />
+                            <img src="https://res.cloudinary.com/dhpvia1ae/image/upload/v1655188718/Database_1_ivbjzb.png" className="image-explore" alt="icon" />
                         </div>
                         <div className="menu-title">
                             Database
